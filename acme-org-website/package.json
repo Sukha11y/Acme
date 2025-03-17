@@ -1,0 +1,17 @@
+{
+  "name": "acme-org-website",
+  "version": "1.0.0",
+  "description": "Website for Acme Organization",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "cypress open",
+    "build": "echo 'Build process not defined'",
+    "start": "echo 'Start process not defined'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@userway/a11y-cypress": "^0.0.28",
+    "@userway/cicd-cli": "^0.0.160",
+    "cypress": "^14.2.0"
+  }
+}
